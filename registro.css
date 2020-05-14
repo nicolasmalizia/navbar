@@ -19,6 +19,13 @@ input[type=text]:focus {
     display:inline;
     margin-right:12px;
 }
+#carrito{
+  width: 100%;
+  height: 100%;
+  margin-left:8px;
+  color:whitesmoke;
+  margin-top:6px;
+}
 @media(min-width:766px){
 #searchbox{
   margin-left: 10px;
